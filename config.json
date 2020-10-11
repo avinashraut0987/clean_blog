@@ -1,0 +1,20 @@
+{
+  "params":
+  {     
+      "localhost" : true,
+      "sitename" : "clean-blog",
+      "MYSQL_HOST" : "localhost",
+      "MYSQL_USER" : "root",
+      "MYSQL_DB" : "clean_blog",
+      "MYSQL_PASSWORD" : "Raut_123",
+      "email": "avinashraut0987@gmail.com",
+      "password": "R@ut_123",
+      "nu_of_posts": 3,
+      "fb_url" : "https://www.facebook.com",
+      "tw_url" : "https://twitter.com/Twitter?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "gethub_url": "https://github.com/login",
+      "aboutdata": "In this case emails will be sent using the configuration values from Flask’s current_app context global. This is useful if you have multiple applications running in the same process but with different configuration options.",
+      "admin_username" : "cleanblog@gmail.com",
+      "admin_password" : "r@ut_123"
+  }
+}
